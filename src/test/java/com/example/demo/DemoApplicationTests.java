@@ -8,6 +8,8 @@ import static org.junit.jupiter.api.Assertions.fail;
 
 class DemoApplicationTests {
 
+	// deneme eklendi
+	
 	@Test
 	public void checkExampleComAccess() {
 		String targetUrl = "https://example.com";
